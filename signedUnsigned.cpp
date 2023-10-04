@@ -15,6 +15,6 @@ int main()
     cout<<x<<endl;
 
     unsigned y = -12;
-    cout<<y <<endl;
+    cout<<y <<endl; //output: 4294967284 but why?
     return 0;
 }
